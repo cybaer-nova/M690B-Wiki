@@ -55,7 +55,7 @@ Before installing the ROS packages, it is necessary to create a workspace and in
 
 ## Control Stack Overview
 
-Now that the environment is prepared, the code stack can be installed inside the created workspace. Below is a tree view of all the packages included in the stack. The packages listed here are available in [this repository](https://github.com/hardtekpt/M690B-Wiki/tree/master/drone_control_stack/src).
+Now that the environment is prepared, the code stack can be installed inside the created workspace. Below is a tree view of all the packages included in the stack. The packages listed here are available in [this repository](https://github.com/cybaer-nova/M690B-Wiki/tree/master/drone_control_stack/src).
 
 ```bash
 src/

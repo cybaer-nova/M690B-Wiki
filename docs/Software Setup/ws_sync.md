@@ -11,14 +11,14 @@ A python script is available in the root of this repository to fetch all changes
       base_path: /home/helios/uav/uav_ws/src/
       packages:
         - name: drone_control_stack
-          repo: https://github.com/hardtekpt/drone_control_stack
+          repo: https://github.com/cybaer-nova/drone_control_stack
         - name: mav_tools
-          repo: https://github.com/hardtekpt/mav_tools
+          repo: https://github.com/cybaer-nova/mav_tools
     - name: m690b_nova
       base_path: /home/icarus/uav/uav_ws/src/
       packages:
         - name: drone_control_stack
-          repo: https://github.com/hardtekpt/drone_control_stack
+          repo: https://github.com/cybaer-nova/drone_control_stack
 ```
 
 By changing this file with any repos that are to be included in either drone's workspace, the python script will automatically clone and update the packages whenever called. This process can be further automated if the script is called when an action is triggered. For example, on every boot, or whenever the drone has access to the Internet.

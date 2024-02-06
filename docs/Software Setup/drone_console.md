@@ -8,7 +8,7 @@ This section describes the console created to facilitate the process of monitori
 
 ## Installation
 
-The files required for the drone console include the **mav_tools** ROS package as well as a couple of scripts which can be found [here](https://github.com/hardtekpt/M690B-Wiki/tree/master/drone_console). The scripts folder should be placed in the home folder and the **mav_tools** package should be placed in the catkin workspace.
+The files required for the drone console include the **mav_tools** ROS package as well as a couple of scripts which can be found [here](https://github.com/cybaer-nova/M690B-Wiki/tree/master/drone_console). The scripts folder should be placed in the home folder and the **mav_tools** package should be placed in the catkin workspace.
 
 !!! note
 
